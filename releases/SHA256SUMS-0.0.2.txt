@@ -1,0 +1,2 @@
+b71cd56634b79c4a587ac6b1a5dd87f18b70df06a0bce92c31dd460febd529ff  ./iAvirix-0.0.2.dmg
+9085986ddfb74e0865c08f26d15be8bed2be07c1b0deca0ff8c0d600f3b779a7  appcast.xml
