@@ -1,0 +1,16 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>iAvirix</title>
+        <item>
+            <title>0.0.1</title>
+            <pubDate>Sun, 08 Nov 2026 16:28:01 +0000</pubDate>
+            <link>https://updates.iavirix.com/appcast.xml</link>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://updates.iavirix.com/releases/iAvirix-0.0.1.dmg" length="2510215" type="application/octet-stream" sparkle:edSignature="yZerXmzWKXBr2irO2BOdS77zAqOSPs0+fhNiCPatthtW5FB5P7FnEr0TVqGRA/OxNbJXhbFswh6XBXwDFQsnDQ=="/>
+        </item>
+    </channel>
+</rss>
